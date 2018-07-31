@@ -1,2 +1,2 @@
-# Common-JS
-This project will about all common JS
+# Common Js and Base Css
+This project will show you some usual Js and Css.
